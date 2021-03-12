@@ -1,4 +1,4 @@
-# :racing_car: Banco de Dados Formula 1  
+# :racing_car: Banco de Dados Formula 1 🏁
 
 ## 📃 Pré-Requisitos:
   ### :pushpin: Utilizar as Metodologias Ágeis:
