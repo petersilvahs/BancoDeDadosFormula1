@@ -2,13 +2,11 @@
 
 ## 📃 Pré-Requisitos:
   ### :pushpin: Utilizar as Metodologias Ágeis:
+  * Criação de backlog
+  * Planejamento de Sprint e distribuição de tarefas
+  * Utilização de Kanbam como ferramenta de acompanhamento para desenvolvimento das atividades
+  * Realizar retrospectiva ao final de cada Sprint
 
-```
-- Criação de backlog
-- Planejamento de Sprint e distribuição de tarefas
-- Utilização de Kanbam como ferramenta de acompanhamento para desenvolvimento das atividades
-- Realizar retrospectiva ao final de cada Sprint
-```
   ### :pushpin: Realizar consultas nativas no MySQL:
   
   ``` 
