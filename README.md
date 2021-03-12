@@ -17,6 +17,7 @@
   ## 🛠️ Ferramentas utilizadas:
    * DOCKER
    * MySQL Workbench
+   * Metabase
     
   ## 🎲 Dados do projeto:
    ### 📑 13 tabelas foram utilizadas, sendo elas:
